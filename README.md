@@ -8,3 +8,5 @@
 [LAB 4 https://github.com/2303A52418/GEN-AI/blob/main/GEN_AI_LAB_4.ipynb]
 
 [LAB 5 https://github.com/2303A52418/GEN-AI/blob/main/GEN_AI_LAB_5.ipynb]
+
+[LAB 9 https://github.com/2303A52418/GEN-AI/edit/main/GEN_LAB_9.ipynb]
