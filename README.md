@@ -12,3 +12,5 @@
 [LAB 9 https://github.com/2303A52418/GEN-AI/blob/main/GEN_LAB_9.ipynb]
 
 [LAB 10 https://github.com/2303A52418/GEN-AI/blob/main/GEN_AI_LAB_10.ipynb]
+
+[https://github.com/2303A52418/GEN-AI/blob/main/gen_ai_project_code.ipynb]
